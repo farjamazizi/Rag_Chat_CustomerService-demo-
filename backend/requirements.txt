@@ -1,0 +1,10 @@
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.29,<1.0
+langchain==0.1.20
+langchain-community==0.0.38
+sentence-transformers==2.6.1
+torch==2.2.2+cpu
+faiss-cpu==1.13.2
+pypdf==6.9.2
+python-dotenv>=1.0,<2.0
+
